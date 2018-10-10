@@ -1,0 +1,73 @@
+{
+    "Glen Johnson": {
+        "stat": "Virginia",
+        "age": "23",
+        "occupation": "Teacher",
+        "pic": "m1.jpeg",
+        "nationality": "American"
+    },
+    "Mark Zuckerberg": {
+        "stat": "Texas",
+        "age": "30",
+        "occupation": "CEO",
+        "pic": "m2.jpeg",
+        "nationality": "American"
+    },
+    "Bill Gates": {
+        "stat": "Ohio",
+        "age": "55",
+        "occupation": "Entrepreneur",
+        "pic": "m3.jpeg",
+        "nationality": "American"
+    },
+    "Christopher Cox": {
+        "stat": "Hawaii",
+        "age": "40",
+        "occupation": "Programmer",
+        "pic": "m4.jpeg",
+        "nationality": "American"
+    },
+    "Selena Gomez": {
+        "stat": "Michigan",
+        "age": "20",
+        "occupation": "Singer",
+        "pic": "f1.jpeg",
+        "nationality": "American"
+    },
+    "Christiano Ronaldo": {
+        "stat": "Florida",
+        "age": "31",
+        "occupation": "Football Player",
+        "pic": "m5.jpeg",
+        "nationality": "American"
+    },
+    "Elena Cuthbert": {
+        "stat": "Georgia",
+        "age": "25",
+        "occupation": "Actress",
+        "pic": "f2.jpeg",
+        "nationality": "American"
+    },"Fry Alonso": {
+        "stat": "North Carolina",
+        "age": "38",
+        "occupation": "Lawyer",
+        "pic": "m6.jpeg",
+        "nationality": "American"
+    },
+    "Osama Binladin": {
+        "stat": "Illinois",
+        "age": "70",
+        "occupation": "Unknown",
+        "pic": "m7.jpeg",
+        "nationality": "American"
+    },
+    "Tiger Woods": {
+        "stat": "Arizona",
+        "age": "38",
+        "occupation": "Golf Player",
+        "pic": "m8.jpeg",
+        "nationality": "American"
+    }
+
+
+}
